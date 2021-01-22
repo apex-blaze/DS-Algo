@@ -139,6 +139,8 @@ void zig_zag(int n){
     }
 }
 
+
+
 int main(){
     // inverted_number_pattern(5);
     // zero_one_pattern(5);
